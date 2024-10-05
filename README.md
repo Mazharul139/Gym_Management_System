@@ -54,4 +54,4 @@ Admin Credentials</br>
 
 Live Deployment Link
 
-(Include the link here)
+When i try to deploy it heroku ask for credential,that's why i can't deploy it
