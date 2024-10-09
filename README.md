@@ -51,6 +51,17 @@ Admin Credentials</br>
         Email: ananta@gmail.com</br>
         Password: 12345678</br>
     (Use these credentials to access the admin dashboard.)</br>
+Trainer Credentials </br>
+     Login Form:</br>
+        Email: sakib@gmail.com</br>
+        Password: 12345678</br>
+    (Use these credentials to access the trainer dashboard.)</br>
+Trainee Credentials </br>
+     Login Form:</br>
+        Email: fahim@gmail.com</br>
+        Password: 12345678</br>
+    (Use these credentials to access the trainee dashboard.)</br>
+
 
 Live Deployment Link
 
